@@ -1,0 +1,5 @@
+<root>
+    <item name='com.codepath.asynchttpclient.callback.JsonHttpResponseHandler'>
+        <annotation name='java.lang.Deprecated' />
+    </item>
+</root>
